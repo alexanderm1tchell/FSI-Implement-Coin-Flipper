@@ -69,3 +69,14 @@ td {
     padding: 5px;
     font-weight: bold;
 }
+
+#status {
+    color: orange;
+    font-size: 20pt;
+}
+
+#button-section {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+}
